@@ -1,0 +1,51 @@
+/*
+ * Empty Stylesheet file.
+ */
+
+#rf{
+    -fx-text-fill: black;
+    -fx-font-size: 20px; 
+    -fx-background-color: 9400D3;
+    -fx-font-weight: bold;
+}
+#mv{
+    -fx-text-fill: black;
+    -fx-font-size: 20px; 
+    -fx-background-color: 9400D3;
+    -fx-font-weight: bold;
+}
+#vd{
+    -fx-text-fill: black;
+    -fx-font-size: 20px; 
+    -fx-background-color: 9400D3;
+    -fx-font-weight: bold;
+}
+#gl{
+    -fx-text-fill: black;
+    -fx-font-size: 20px; 
+    -fx-background-color: 9400D3;
+    -fx-font-weight: bold;
+}
+#ms{
+    -fx-text-fill: black;
+    -fx-font-size: 20px; 
+    -fx-background-color: 9400D3;
+    -fx-font-weight: bold;
+}
+#pc{
+    -fx-text-fill: black;
+    -fx-font-size: 20px; 
+    -fx-background-color: 9400D3;
+    -fx-font-weight: bold;
+}
+#bc{
+    -fx-text-fill: black;
+    -fx-font-size: 20px; 
+    -fx-background-color: 9400D3;
+    -fx-font-weight: bold;
+}
+
+.root{
+    -fx-background-image: url("c.jpg");
+}
+
